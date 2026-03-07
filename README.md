@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Avinash Dubey — Data Analyst (3 YOE)
 
-<!--
-**Avinash7007/Avinash7007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in SQL analytics, KPI tracking, customer analytics,
+and Power BI dashboards across retail, finance, and operations domains.
 
-Here are some ideas to get you started:
+🔹 Strong in: SQL, Power BI, Excel, Python  
+🔹 Focus: Business-driven analytics & root cause analysis  
+🔹 Passion: Turning messy data into decision-ready insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects:
+• Consumer Goods Sales Analysis (SQL)  
+• Retail Sales Dashboard (Power BI)  
+• Bank Customer Churn Analysis (BI)
+
+📫 Let's connect for data-driven opportunities.
