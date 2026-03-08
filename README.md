@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Dubey</h1>
-<h3 align="center">Data Analyst (3 YOE) | SQL Analytics | Power BI | KPI Tracking | Customer & Ops Analytics</h3>
+<h3 align="center">Data Analyst (~3 YOE) | SQL Analytics | Power BI | KPI Tracking | Customer & Ops Analytics</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash7007/">
