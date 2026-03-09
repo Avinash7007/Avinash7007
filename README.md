@@ -45,7 +45,7 @@ End-to-end SQL analytics case study covering revenue trends, churn, cancellation
 ### 🔹 [Retail Sales Dashboard](https://github.com/Avinash7007/Retail_Sales_and_Customer_Analysis) (Power BI)
 Interactive dashboard analyzing revenue performance, product trends, and regional sales insights.
 
-### 🔹 [Bank Customer Churn Analysis](https://github.com/Avinash7007/Bank_Customer_Churn_Analysis) (BI)
+### 🔹 [Customer Churn Analysis](https://github.com/Avinash7007/Bank_Customer_Churn_Analysis) (BI)
 Customer retention analytics with churn modeling insights and business recommendations.
 
 ---
