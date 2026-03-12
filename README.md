@@ -39,11 +39,11 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Retail Sales & Customer Insights](https://github.com/Avinash7007/Consumer-Goods-Sales-Analysis)
-End-to-end SQL analytics case study covering revenue trends, churn, cancellations, returns, shipment delays, and payment reconciliation.
-
-### 🔹 [Consumer Goods Revenue Risk & Payment Failure Analysis ](https://github.com/Avinash7007/Retail_Sales_and_Customer_Analysis)
+### 🔹 [Retail Sales & Customer Insights](https://github.com/Avinash7007/Retail_Sales_and_Customer_Analysis)
 Interactive dashboard analyzing revenue performance, product trends, and regional sales insights.
+
+### 🔹 [Consumer Goods Revenue Risk & Payment Failure Analysis](https://github.com/Avinash7007/Consumer-Goods-Sales-Analysis)
+End-to-end SQL analytics case study covering revenue trends, churn, cancellations, returns, shipment delays, and payment reconciliation.
 
 ### 🔹 [Customer Churn Segmentation & Retention ](https://github.com/Avinash7007/Bank_Customer_Churn_Analysis)
 Customer retention analytics with churn modeling insights and business recommendations.
