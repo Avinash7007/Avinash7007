@@ -50,13 +50,4 @@ Customer retention analytics with churn modeling insights and business recommend
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash7007&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash7007&theme=default" />
-</p>
-
----
-
 ⭐️ *Open to Data Analyst opportunities across product, service, and startup environments.*
