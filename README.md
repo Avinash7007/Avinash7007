@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/avinash7007/">
     <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Dubey-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://codebasics.io/portfolio/Avinash-Dubey">
+  <a href="https://avinash7007.github.io/avinash-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome">
   </a>
   <a href="mailto:dubeyavinash157@gmail.com">
