@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔹 Data Analyst with ** 3 years of experience** in SQL, Python, Power BI, and Excel
+- 🔹 Data Analyst with 3 years of experience in SQL, Python, Power BI, and Excel
 - 🔹 Specialized in **data visualization, EDA, and business intelligence reporting**
 - 🔹 Worked on large-scale datasets (**1M+ records**) across Retail (E-commerce) and Customer Analytics domains
 - 🔹 Automated **10+ recurring reports** — reduced turnaround time from hours to minutes
