@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Dubey</h1>
-<h3 align="center">Data Analyst (~3 YOE) | SQL Analytics | Power BI | KPI Tracking | Customer & Ops Analytics</h3>
+<h3 align="center">Data Analyst (3 YOE) | SQL Analytics | Power BI | KPI Tracking | Customer & Ops Analytics</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash7007/">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔹 Data Analyst with **nearly 3 years of experience** in SQL, Python, Power BI, and Excel
+- 🔹 Data Analyst with ** 3 years of experience** in SQL, Python, Power BI, and Excel
 - 🔹 Specialized in **data visualization, EDA, and business intelligence reporting**
 - 🔹 Worked on large-scale datasets (**1M+ records**) across Retail (E-commerce) and Customer Analytics domains
 - 🔹 Automated **10+ recurring reports** — reduced turnaround time from hours to minutes
