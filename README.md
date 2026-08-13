@@ -170,22 +170,6 @@ Interactive Business Intelligence dashboard focused on:
 - Trend Analysis
 
 ### 💰 Consumer Goods Revenue Risk & Payment Failure Analysis
-*SQL + Python + Pandas*
-
-<a href="https://github.com/Avinash7007/Consumer-Goods-Sales-Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
-
-End-to-end analytics case study covering:
-
-- Revenue Trends
-- Customer Churn
-- Cancellations
-- Returns
-- Shipment Delays
-- Payment Failures
-- Revenue Risk
-- Payment Reconciliation
-
-### 💰 Consumer Goods Revenue Risk & Payment Failure Analysis
 *SQL + Power BI + Customer Analytics*
 
 <a href="https://github.com/Avinash7007/Consumer_Goods_Revenue_Risk_and_Payment_Failure_Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
