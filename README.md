@@ -11,10 +11,7 @@
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+3%2B+Years+Experience;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Snowflake+%7C+AWS+S3+%7C+ETL+%7C+Data+Engineering;Data+Visualization+%7C+Business+Intelligence;Building+Production-Ready+Data+Pipelines"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+3%2B+Years+Experience;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Snowflake+%7C+AWS+S3+%7C+ETL+%7C+Data+Engineering;Data+Visualization+%7C+Business+Intelligence;Building+Production-Ready+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -188,19 +185,19 @@ End-to-end analytics case study covering:
 - Revenue Risk
 - Payment Reconciliation
 
-### 👥 Customer Churn Segmentation & Retention
+### 💰 Consumer Goods Revenue Risk & Payment Failure Analysis
 *SQL + Power BI + Customer Analytics*
 
-<a href="https://github.com/Avinash7007/Bank_Customer_Churn_Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/Avinash7007/Consumer_Goods_Revenue_Risk_and_Payment_Failure_Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
 
-Customer analytics project focused on:
+End-to-end analytics project focused on:
 
-- Customer Segmentation
-- Churn Analysis
-- Retention Analysis
-- Customer Behavior
-- Risk Identification
-- Business Recommendations
+- Revenue Risk Analysis
+- Payment Failure Analysis
+- Customer Risk Identification
+- Revenue Trends
+- Payment Reconciliation
+- Business Insights
 
 ---
 
@@ -304,14 +301,6 @@ Data Analyst • Data Analytics • Business Intelligence • BI Analyst • Pow
   <a href="mailto:dubeyavinash157@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer" />
-</p>
+---
 
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-  <i>Turning data into insights • Building scalable pipelines • Driving business decisions 🚀</i>
-</p>
+<p align="center"><i>Turning data into insights • Building scalable pipelines • Driving business decisions 🚀</i></p>
