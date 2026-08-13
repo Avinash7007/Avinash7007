@@ -11,44 +11,18 @@
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+3%2B+Years+Experience;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Snowflake+%7C+AWS+S3+%7C+ETL+%7C+Data+Engineering;Data+Visualization+%7C+Business+Intelligence;Building+Production-Ready+Data+Pipelines"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+3%2B+Years+Experience;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Snowflake+%7C+AWS+S3+%7C+ETL+%7C+Data+Engineering;Data+Visualization+%7C+Business+Intelligence;Building+Production-Ready+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Avinash7007&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/Avinash7007?label=Followers&style=for-the-badge&color=blue"
-    alt="GitHub Followers"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Avinash7007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Avinash7007?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash7007/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Avinash%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://avinash7007.github.io/avinash-portfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="mailto:dubeyavinash157@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/avinash7007/"><img src="https://img.shields.io/badge/LinkedIn-Avinash%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://avinash7007.github.io/avinash-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:dubeyavinash157@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -167,9 +141,7 @@ I specialize in transforming raw business data into actionable insights using **
 ### ☁️ EuroRetail Data Pipeline
 *AWS S3 + Snowflake + SQL + Power BI*
 
-<a href="https://github.com/Avinash7007/euroretail-data-pipeline">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+<a href="https://github.com/Avinash7007/euroretail-data-pipeline"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
 
 Production-style cloud data pipeline built using:
 
@@ -185,53 +157,23 @@ Production-style cloud data pipeline built using:
 ### 📊 Retail Sales & Customer Insights
 *SQL + Power BI + DAX + Power Query*
 
-<a href="https://github.com/Avinash7007/Retail_Sales_and_Customer_Analysis">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+<a href="https://github.com/Avinash7007/Retail_Sales_and_Customer_Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
 
-Interactive Business Intelligence dashboard focused on:
-
-- Revenue Analysis
-- Sales Performance
-- Product Analysis
-- Customer Analytics
-- Regional Performance
-- KPI Tracking
-- Trend Analysis
+Interactive Business Intelligence dashboard focused on Revenue Analysis, Sales Performance, Product Analysis, Customer Analytics, Regional Performance, KPI Tracking, and Trend Analysis.
 
 ### 💰 Consumer Goods Revenue Risk & Payment Failure Analysis
 *SQL + Python + Pandas*
 
-<a href="https://github.com/Avinash7007/Consumer-Goods-Sales-Analysis">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+<a href="https://github.com/Avinash7007/Consumer-Goods-Sales-Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
 
-End-to-end analytics case study covering:
-
-- Revenue Trends
-- Customer Churn
-- Cancellations
-- Returns
-- Shipment Delays
-- Payment Failures
-- Revenue Risk
-- Payment Reconciliation
+End-to-end analytics case study covering Revenue Trends, Customer Churn, Cancellations, Returns, Shipment Delays, Payment Failures, Revenue Risk, and Payment Reconciliation.
 
 ### 👥 Customer Churn Segmentation & Retention
 *SQL + Power BI + Customer Analytics*
 
-<a href="https://github.com/Avinash7007/Bank_Customer_Churn_Analysis">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+<a href="https://github.com/Avinash7007/Bank_Customer_Churn_Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
 
-Customer analytics project focused on:
-
-- Customer Segmentation
-- Churn Analysis
-- Retention Analysis
-- Customer Behavior
-- Risk Identification
-- Business Recommendations
+Customer analytics project focused on Customer Segmentation, Churn Analysis, Retention Analysis, Customer Behavior, Risk Identification, and Business Recommendations.
 
 ---
 
@@ -296,12 +238,12 @@ Customer analytics project focused on:
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Avinash7007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Avinash7007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avinash7007/Avinash7007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Avinash7007/Avinash7007/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -343,25 +285,15 @@ I'm interested in opportunities related to:
 Data Analytics | Business Intelligence | Power BI | SQL | Cloud Data Engineering | Snowflake | AWS
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash7007/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://avinash7007.github.io/avinash-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:dubeyavinash157@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/avinash7007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://avinash7007.github.io/avinash-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:dubeyavinash157@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer" />
 </p>
 
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
-<p align="center">
-  <i>Turning data into insights • Building scalable pipelines • Driving business decisions 🚀</i>
-</p>
+<p align="center"><i>Turning data into insights • Building scalable pipelines • Driving business decisions 🚀</i></p>
