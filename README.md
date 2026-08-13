@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash7007/"><img src="https://img.shields.io/badge/LinkedIn-Avinash%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://avinash7007.github.io/avinash-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dubeyavinash157@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:dubeyavinash157@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -282,7 +282,7 @@ Data Analyst • Data Analytics • Business Intelligence • BI Analyst • Pow
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash7007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://avinash7007.github.io/avinash-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dubeyavinash157@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dubeyavinash157@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
