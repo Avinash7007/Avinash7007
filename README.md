@@ -11,10 +11,6 @@
 </h3>
 
 <p align="center">
-  SQL Analyst • Cloud Data Engineer (AWS + Snowflake)
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Power+BI+Developer;3%2B+Years+Turning+Data+into+Business+Impact;SQL+%7C+Power+BI+%7C+DAX+%7C+Python+%7C+Excel;Snowflake+%7C+AWS+S3+%7C+ETL+%7C+Data+Warehousing;%2420M%2B+Revenue+Analyzed+%7C+46.9%25+YoY+Growth+Uncovered" alt="Typing SVG" />
 </p>
 
