@@ -7,11 +7,15 @@
 </h1>
 
 <h3 align="center">
-  Data Analyst | Power BI Developer | SQL Analyst | Cloud Data Engineer
+  Data Analyst | Power BI Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+3%2B+Years+Experience;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Snowflake+%7C+AWS+S3+%7C+ETL+%7C+Data+Engineering;Data+Visualization+%7C+Business+Intelligence;Building+Production-Ready+Data+Pipelines" alt="Typing SVG" />
+  SQL Analyst • Cloud Data Engineer (AWS + Snowflake)
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Power+BI+Developer;3%2B+Years+Turning+Data+into+Business+Impact;SQL+%7C+Power+BI+%7C+DAX+%7C+Python+%7C+Excel;Snowflake+%7C+AWS+S3+%7C+ETL+%7C+Data+Warehousing;%2420M%2B+Revenue+Analyzed+%7C+46.9%25+YoY+Growth+Uncovered" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,21 +33,19 @@
 
 ## 👨‍💻 About Me
 
-🎯 **Data Analyst with 3+ years of experience** in Data Analytics, Business Intelligence, Reporting, Data Visualization, and Business Insights.
+🎯 **Data Analyst and Power BI Developer with 3+ years of experience** turning SQL, Power BI, and Python into dashboards, reports, and business decisions.
 
-I specialize in transforming raw business data into actionable insights using **SQL, Power BI, Python, Excel, Snowflake, and AWS**.
+I specialize in transforming raw business data into actionable insights using **SQL, Power BI, Python, Excel, Snowflake, and AWS** — from building the pipeline to publishing the dashboard leadership actually uses.
 
-- 🔹 3+ years of experience in **Data Analytics & Business Intelligence**
-- 🔹 Strong expertise in **SQL, Power BI, DAX, Power Query & Advanced Excel**
-- 🔹 Experience with **Python, Pandas, NumPy & Exploratory Data Analysis**
-- 🔹 Building **cloud-based data pipelines using AWS S3 + Snowflake**
-- 🔹 Experience with **ETL, Data Extraction, Transformation, Validation & Integration**
-- 🔹 Experience with **Star Schema, Fact Tables, Dimension Tables & Data Modeling**
-- 🔹 Worked with datasets containing **1M+ records**
-- 🔹 Automated **10+ recurring reports**, reducing turnaround time from hours to minutes
-- 🔹 Built **8+ Power BI dashboards** for Sales, Revenue, Customer & Churn Analytics
-- 🔹 Improved SQL query performance by approximately **25%**
-- 🔹 Improved operational reporting efficiency by approximately **20%**
+- 🔹 3+ years of experience in **Data Analytics & Business Intelligence**, across Retail, E-Commerce, and Consumer Goods
+- 🔹 Strong hands-on expertise in **SQL (T-SQL, CTEs, Window Functions), Power BI, DAX, Power Query & Advanced Excel**
+- 🔹 Analyzed **$20M+ in retail sales data**, uncovering a **46.9% YoY growth trend**
+- 🔹 Identified **2,389 at-risk customers** (33.5% cancellation rate) through segmentation, surfacing **$2.5M in revenue at risk**
+- 🔹 Built **20+ reusable DAX measures** (CALCULATE, FILTER, SUMX, RANKX, time intelligence) powering KPI, YoY, MoM & YTD reporting
+- 🔹 Optimized T-SQL queries and Stored Procedures, cutting average query runtime by **~20%**
+- 🔹 Automated recurring reporting workflows, cutting manual effort by **30–40% (~15 hrs/week)**
+- 🔹 Building **cloud-based data pipelines using AWS S3 + Snowflake**, with a Star Schema data warehouse underneath
+- 🔹 Processing **100K+ records/month** from SQL Server, Excel, and CSV using Python (Pandas) and Power Query
 
 ---
 
@@ -159,29 +161,24 @@ Production-style cloud data pipeline built using:
 
 <a href="https://github.com/Avinash7007/Retail_Sales_and_Customer_Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
 
-Interactive Business Intelligence dashboard focused on:
+Interactive Power BI dashboard built on a Star Schema model, covering:
 
-- Revenue Analysis
-- Sales Performance
-- Product Analysis
-- Customer Analytics
-- Regional Performance
-- KPI Tracking
-- Trend Analysis
+- Revenue Analysis — **$20M+ in sales analyzed, 46.9% YoY growth identified**
+- Sales Performance & Product Analysis
+- Customer Analytics & Regional Performance
+- KPI Tracking & Trend Analysis
 
 ### 💰 Consumer Goods Revenue Risk & Payment Failure Analysis
 *SQL + Power BI + Customer Analytics*
 
 <a href="https://github.com/Avinash7007/Consumer_Goods_Revenue_Risk_and_Payment_Failure_Analysis"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" /></a>
 
-End-to-end analytics project focused on:
+End-to-end analytics project that identified **2,389 at-risk customers (33.5% cancellation rate)**, surfacing **$2.5M in revenue at risk**, covering:
 
-- Revenue Risk Analysis
-- Payment Failure Analysis
-- Customer Risk Identification
-- Revenue Trends
-- Payment Reconciliation
-- Business Insights
+- Revenue Risk Analysis & Payment Failure Analysis
+- Customer Risk Identification & Segmentation
+- Revenue Trends & Payment Reconciliation
+- Business Insights for Retention Strategy
 
 ---
 
@@ -269,8 +266,8 @@ Data Analyst • Data Analytics • Business Intelligence • BI Analyst • Pow
 ## 💼 Open To Opportunities
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BI%20Analyst-6F42C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI%20Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/BI%20Analyst-6F42C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL%20Analyst-CC2927?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Analytics%20Engineer-2EA44F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud%20Data%20Engineer-FF9900?style=for-the-badge" />
@@ -287,4 +284,4 @@ Data Analyst • Data Analytics • Business Intelligence • BI Analyst • Pow
 
 ---
 
-<p align="center"><i>Turning data into insights • Building scalable pipelines • Driving business decisions 🚀</i></p>
+<p align="center"><i>Data Analyst • Power BI Developer • Turning data into insights that drive business decisions 🚀</i></p>
